@@ -20,7 +20,6 @@ Step5:Go to sketch and select verify or compile options </br>
 Step6:If no error Hex file will be generated in the temporary folder </br>
 
 ## THEORY:
-
 An infrared proximity sensor or IR Sensor is an electronic device that emits infrared lights to sense some aspect of the surroundings and can be employed to detect the motion of an object. As this is a passive sensor, it can only measure infrared radiation. This sensor is very common in the electronic industry and if you’ve ever tried to design an obstacle avoidance robot or any other proximity detection-based system.
 
 ### IR Sensor Pinout
@@ -89,7 +88,8 @@ else
 ![image](https://github.com/VarshaAjith1110/Interfacing-IR-sensor/assets/94222288/4e1ebf79-9856-4252-8cd5-09c74381c358)
 
 ## OUTPUT:
-![image](https://github.com/VarshaAjith1110/Interfacing-IR-sensor/assets/94222288/f0cc366f-ffdd-4654-8ed9-43a6dfa15f57)
+![1](https://github.com/naveenkumar12624/Proto_IOT_Interfacing-IR-sensor/assets/93427235/709f7835-3aeb-4d97-ae66-0391da54a0e0)
+![2](https://github.com/naveenkumar12624/Proto_IOT_Interfacing-IR-sensor/assets/93427235/cdba41ee-608a-42fd-bc87-12fda2e9871c)
 
 ## RESULT:
 Thus the IR sensor module is interfaced with Arduino UNO controller and output is verified.
