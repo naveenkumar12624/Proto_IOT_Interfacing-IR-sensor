@@ -88,8 +88,11 @@ else
 <img width="350" src='https://github.com/naveenkumar12624/Proto_IOT_Interfacing-IR-sensor/assets/93427235/3461d05f-935f-458f-aeac-04eb7eec3db2'>
 
 ## OUTPUT:
-When There is No Object                                When There is An Object
-<img width="350" src='https://github.com/naveenkumar12624/Proto_IOT_Interfacing-IR-sensor/assets/93427235/cdba41ee-608a-42fd-bc87-12fda2e9871c'>            <img width="350" src='https://github.com/naveenkumar12624/Proto_IOT_Interfacing-IR-sensor/assets/93427235/709f7835-3aeb-4d97-ae66-0391da54a0e0'>
+### When There is No Object                                
+<img width="350" src='https://github.com/naveenkumar12624/Proto_IOT_Interfacing-IR-sensor/assets/93427235/cdba41ee-608a-42fd-bc87-12fda2e9871c'>
+
+### When There is An Object
+<img width="350" src='https://github.com/naveenkumar12624/Proto_IOT_Interfacing-IR-sensor/assets/93427235/709f7835-3aeb-4d97-ae66-0391da54a0e0'>
 
 ## RESULT:
 Thus the IR sensor module is interfaced with Arduino UNO controller and output is verified.
